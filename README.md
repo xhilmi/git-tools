@@ -8,6 +8,10 @@
 - git commit -m 'ignoring something'
 - git push origin master
 
+# Git Size
+- https://github.com/github/git-sizer
+- https://github.com/jtloong/git-status-size
+
 # Reference
 - https://stackoverflow.com/questions/11058207/how-to-get-git-to-exclude-a-local-directory-from-push-to-remote-but-still-part
 - https://www.freecodecamp.org/news/gitignore-file-how-to-ignore-files-and-folders-in-git
