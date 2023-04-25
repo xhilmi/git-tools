@@ -11,7 +11,10 @@
 # Git Ignore Template
 - Follow and see this [link](https://github.com/github/gitignore)
 
-# Git Size
+# Git Commit Autogenerate Message
+- Checkout this [link](https://github.com/xhilmi/git-tools/blob/master/.gitconfig)
+
+# Git Size Finder
 - https://github.com/github/git-sizer
 - https://github.com/jtloong/git-status-size
 
