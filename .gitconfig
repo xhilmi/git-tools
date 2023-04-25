@@ -1,9 +1,9 @@
-
-# Add this script onto your file ~/.gitconfig and boom
+# Generate git commit message for lazy people like me 😁
+# Just add this script onto your file ~/.gitconfig and boom
 # Editable by (c) Hilmi 2023
-# Source: https://gist.github.com/erikw/654386d35ecfdb0354cd2b71763f19ae
-# commit-status: generate a commit with message from git-status (staged changes).
 [alias]
+        # Source: https://gist.github.com/erikw/654386d35ecfdb0354cd2b71763f19ae
+        # commit-status: generate a commit with message from git-status (staged changes).
         # Explanation:
         # - Get only staged changes
         # - Ignore changes in working area (2nd letter, the Y in XY as explained in $(git help status))
