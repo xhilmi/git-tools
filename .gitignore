@@ -1,5 +1,6 @@
 # Git Directories
 .git
+!FUNDING.yaml
 
 # git filter bigges .terraform hidden files or directories
 # git filter-branch -f --index-filter 'git rm --cached -r --ignore-unmatch .terraform/'
