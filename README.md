@@ -1,3 +1,7 @@
+# Git Login Helper
+- git config --global credential.helper store
+- cat ~/.git-credentials | reference: https://stackoverflow.com/questions/6565357/git-push-requires-username-and-password
+
 # Git Ignore
 - nano ~/.gitignore_global
 - example files `.gitignore_global` check on this [link](https://raw.githubusercontent.com/xhilmi/gitignore/master/.gitignore_global) 
